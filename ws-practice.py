@@ -15,4 +15,3 @@ all = soup.find_all("div",{"class":"cities"})
 for item in all: 
     print(item.find_all("p")[0].text)
 
-    
