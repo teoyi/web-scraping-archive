@@ -66,4 +66,4 @@ if __name__=="__main__":
                          address = address,
                          receiver = receiver,
                          password = password,
-                         run_hours = 1) 
+                         run_hours = 1000) 
